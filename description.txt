@@ -11,3 +11,6 @@ loops
 boolean 
 som more stuffs 
 
+hey buddy i hope you are enjoying the python tutorial.
+
+
