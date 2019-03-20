@@ -1,4 +1,13 @@
 
 
 Welcome to the description of this tutorial. 
-Let''s write more. 
+Let's write more. 
+
+contents are :
+introduction 
+first program in python 
+conditions 
+loops 
+boolean 
+som more stuffs 
+
